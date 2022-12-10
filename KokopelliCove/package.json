@@ -7,7 +7,7 @@
     "name": "jbranham"
   },
   "dependencies": {
-    "express": "~4.16.4",
+    "express": "~4.17.3",
     "path": "~0.12.7",
     "react": "^16.6.3",
     "react-dom": "~16.6.0",
